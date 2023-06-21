@@ -46,7 +46,7 @@
 
 <img src="https://raw.githubusercontent.com/Platane/snk/main/svg-only/action.yml" alt="" />
 
-###&nbsp;<div align="center">
+&nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
